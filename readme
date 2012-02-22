@@ -5,10 +5,10 @@
 Filename: getText
 usage: $ getText LogFile <token1> <token2> FileDumpName
 
-If you have a log file and needs to get some text you 
-know resides between two token. you can use this.
+If you have a log file and needs to get some text you
+know resides between two token. you can use this
 
 Logfile: is the file.txt you have the info in
-FileDumpName: is any filename you want to dump the text too.
+FileDumpName: is any filename you want to dump the text too
 
 
